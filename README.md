@@ -1,10 +1,10 @@
 # interview
-1-) Clone project from github
-2-) Identify project dependencies
-3-) Build project
-4-) Fix build errors if there are. "main2"
-5-) Start project with "dev" profile.
-6-) Open swaggerUI url and send a GET request.
-http://localhost:8093/customer-info/swagger-ui/index.html
-7-) Talk about Spring Data JPA usage in the current project
-8-) Talk about contents of DockerFile in the current project
+1-) Clone project from github </br>
+2-) Identify project dependencies </br>
+3-) Build project </br>
+4-) Fix build errors if there are. "main2" </br>
+5-) Start project with "dev" profile. </br>
+6-) Open swaggerUI url and send a GET request. </br>
+http://localhost:8093/customer-info/swagger-ui/index.html </br>
+7-) Talk about Spring Data JPA usage in the current project </br>
+8-) Talk about contents of DockerFile in the current project </br>
